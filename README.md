@@ -49,19 +49,19 @@ We extracted key topics from reviews by training LDA models with **5 and 6 topic
 - **Increased inclusivity & accessibility** through feature improvements.
 - **Better customer service** to resolve billing and account issues.
 
-## 🛠️ Tech Stack & Libraries
+## Tech Stack & Libraries
 - **Programming Language:** Python 
 - **NLP & Machine Learning:** `NLTK`, `scikit-learn`, `spaCy`
 - **Data Visualization:** `matplotlib`, `wordcloud`
 - **Topic Modeling:** `gensim`, `LDA`
 
-## 📄 Future Improvements
+## Future Improvements
 - Implement **deep learning models (LSTMs, Transformers)** for sentiment analysis.
 - Develop an **interactive dashboard** to visualize sentiment trends.
 - Expand dataset to include **multilingual reviews** for a global perspective.
 
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.
 
 ---
