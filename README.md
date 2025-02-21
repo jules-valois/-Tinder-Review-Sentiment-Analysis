@@ -16,12 +16,17 @@ Adjective Extraction: Identifying key descriptive words used in reviews.
 Word Frequency Analysis: Identifying the most frequently used adjectives to determine common themes.
 
 2: Sentiment Classification
+
 We used two ML models to classify user sentiment:
+
 Naïve Bayes (TF-IDF & CountVectorizer): Achieved 84.29% accuracy with TF-IDF.
+
 KNN with Cosine Similarity: Achieved 82.7% accuracy with k = 15.
+
 Final Choice: Naïve Bayes (TF-IDF) due to its higher accuracy and efficiency.
 
 3: Topic Modeling (LDA - Latent Dirichlet Allocation)
+
 We extracted key topics from reviews by training LDA models with 5 and 6 topics. Major identified themes included:
 Fake Profiles & Bots 
 Subscription & Pricing Concerns
