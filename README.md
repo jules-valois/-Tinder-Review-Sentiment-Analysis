@@ -28,11 +28,11 @@ Final Choice: Naïve Bayes (TF-IDF) due to its higher accuracy and efficiency.
 3: Topic Modeling (LDA - Latent Dirichlet Allocation)
 
 We extracted key topics from reviews by training LDA models with 5 and 6 topics. Major identified themes included:
-Fake Profiles & Bots 
-Subscription & Pricing Concerns
-Account Bans & Moderation Issues
-User Engagement & Matching Algorithm 
-Technical Glitches & Performance Problems
+Fake Profiles & Bots. 
+Subscription & Pricing Concerns.
+Account Bans & Moderation Issues.
+User Engagement & Matching Algorit.hm 
+Technical Glitches & Performance Problems.
 
 Results & Insights
 User dissatisfaction is primarily driven by fake profiles and pricing concerns.
