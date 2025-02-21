@@ -29,23 +29,34 @@ Final Choice: Naïve Bayes (TF-IDF) due to its higher accuracy and efficiency.
 
 We extracted key topics from reviews by training LDA models with 5 and 6 topics. Major identified themes included:
 
-Fake Profiles & Bots. 
-Subscription & Pricing Concerns.
-Account Bans & Moderation Issues.
-User Engagement & Matching Algorit.hm 
+Fake Profiles & Bots
+
+Subscription & Pricing Concerns
+
+Account Bans & Moderation Issues
+
+User Engagement & Matching Algorithme 
+
 Technical Glitches & Performance Problems.
 
 Results & Insights
 
 User dissatisfaction is primarily driven by fake profiles and pricing concerns.
+
 Subscription complaints are frequent, suggesting a need for clearer pricing and billing policies.
+
 Moderation and account bans frustrate users, indicating possible transparency improvements.
+
 Positive feedback highlights good matches and user experience but is outweighed by concerns.
+
 LDA topic modeling helped identify key problem areas for app improvement.
 
 Tech Stack & Libraries
 
 Programming Language: Python 
+
 NLP & Machine Learning: NLTK, scikit-learn, spaCy
+
 Data Visualization: matplotlib, wordcloud
+
 Topic Modeling: gensim, LDA
